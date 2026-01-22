@@ -15,4 +15,14 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
+
+  server: {
+    proxy: {
+      '/api-bmkg': {
+        target: 'https://api.bmkg.go.id',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api-bmkg/, '')
+      }
+    }
+  }
 })

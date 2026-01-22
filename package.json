@@ -1,5 +1,5 @@
 {
-  "name": "wilayah.json",
+  "name": "web-bmkg",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -16,6 +16,7 @@
     "format": "prettier --write --experimental-cli src/"
   },
   "dependencies": {
+    "axios": "^1.13.2",
     "vue": "^3.5.26"
   },
   "devDependencies": {

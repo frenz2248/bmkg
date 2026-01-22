@@ -1,11 +1,38 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import LocationSelector from '@/components/LocationSelector.vue';
+</script>
 
 <template>
-  <h1>You did it!</h1>
-  <p>
-    Visit <a href="https://vuejs.org/" target="_blank" rel="noopener">vuejs.org</a> to read the
-    documentation
-  </p>
+  <main class="app-container">
+    <header>
+      <h1>🌤️ Cuaca BMKG Jawa Timur</h1>
+      <p>Cek prakiraan cuaca berdasarkan wilayah desa kamu</p>
+    </header>
+
+    <LocationSelector />
+
+  </main>
 </template>
 
-<style scoped></style>
+<style scoped>
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+header {
+  margin-bottom: 2rem;
+}
+
+h1 {
+  color: #1e293b;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  color: #64748b;
+}
+</style>
