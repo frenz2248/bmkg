@@ -22,6 +22,12 @@ export default defineConfig({
         target: 'https://api.bmkg.go.id',
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api-bmkg/, '')
+      },
+
+      '/gempa-bmkg': {
+        target: 'https://data.bmkg.go.id',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/gempa-bmkg/, '')
       }
     }
   }

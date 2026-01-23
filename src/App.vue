@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import LocationSelector from '@/components/LocationSelector.vue';
+import GempaWidget from '@/components/GempaWidget.vue';
 </script>
 
 <template>
@@ -11,6 +12,9 @@ import LocationSelector from '@/components/LocationSelector.vue';
 
     <LocationSelector />
 
+    <div style="margin: 40px;">
+      <GempaWidget />
+    </div>
   </main>
 </template>
 

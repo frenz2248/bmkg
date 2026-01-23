@@ -1,0 +1,507 @@
+{
+  "id": "35.06",
+  "name": "KAB. KEDIRI",
+  "type": "Kabupaten",
+  "districts": [
+    {
+      "id": "35.06.01",
+      "name": "Semen",
+      "villages": [
+        { "id": "35.06.01.2001", "name": "Desa Selopanggung" },
+        { "id": "35.06.01.2002", "name": "Desa Joho" },
+        { "id": "35.06.01.2003", "name": "Desa Pagung" },
+        { "id": "35.06.01.2004", "name": "Desa Puhrubuh" },
+        { "id": "35.06.01.2005", "name": "Desa Sidomulyo" },
+        { "id": "35.06.01.2006", "name": "Desa Bobang" },
+        { "id": "35.06.01.2007", "name": "Desa Puhsarang" },
+        { "id": "35.06.01.2008", "name": "Desa Semen" },
+        { "id": "35.06.01.2009", "name": "Desa Kedak" },
+        { "id": "35.06.01.2010", "name": "Desa Kanyoran" },
+        { "id": "35.06.01.2011", "name": "Desa Bulu" },
+        { "id": "35.06.01.2012", "name": "Desa Mancilan" }
+      ]
+    },
+    {
+      "id": "35.06.02",
+      "name": "Mojo",
+      "villages": [
+        { "id": "35.06.02.2001", "name": "Desa Petungroto" },
+        { "id": "35.06.02.2002", "name": "Desa Blimbing" },
+        { "id": "35.06.02.2003", "name": "Desa Jugo" },
+        { "id": "35.06.02.2004", "name": "Desa Pamongan" },
+        { "id": "35.06.02.2005", "name": "Desa Keniten" },
+        { "id": "35.06.02.2006", "name": "Desa Kranding" },
+        { "id": "35.06.02.2007", "name": "Desa Maesan" },
+        { "id": "35.06.02.2008", "name": "Desa Mondo" },
+        { "id": "35.06.02.2009", "name": "Desa Sukoanyar" },
+        { "id": "35.06.02.2010", "name": "Desa Tambak" },
+        { "id": "35.06.02.2011", "name": "Desa Ngadi" },
+        { "id": "35.06.02.2012", "name": "Desa Mojo" },
+        { "id": "35.06.02.2013", "name": "Desa Mlati" },
+        { "id": "35.06.02.2014", "name": "Desa Kraton" },
+        { "id": "35.06.02.2015", "name": "Desa Kedawung" },
+        { "id": "35.06.02.2016", "name": "Desa Ploso" },
+        { "id": "35.06.02.2017", "name": "Desa Surat" },
+        { "id": "35.06.02.2018", "name": "Desa Ngetrep" },
+        { "id": "35.06.02.2019", "name": "Desa Ponggok" },
+        { "id": "35.06.02.2020", "name": "Desa Kedunglurah" }
+      ]
+    },
+    {
+      "id": "35.06.03",
+      "name": "Kras",
+      "villages": [
+        { "id": "35.06.03.2001", "name": "Desa Jambean" },
+        { "id": "35.06.03.2002", "name": "Desa Purwodadi" },
+        { "id": "35.06.03.2003", "name": "Desa Butuh" },
+        { "id": "35.06.03.2004", "name": "Desa Krandang" },
+        { "id": "35.06.03.2005", "name": "Desa Kras" },
+        { "id": "35.06.03.2006", "name": "Desa Nyawangan" },
+        { "id": "35.06.03.2007", "name": "Desa Setonorejo" },
+        { "id": "35.06.03.2008", "name": "Desa Banjaranyar" },
+        { "id": "35.06.03.2009", "name": "Desa Kanigoro" },
+        { "id": "35.06.03.2010", "name": "Desa Karangtalun" },
+        { "id": "35.06.03.2011", "name": "Desa Bendosari" },
+        { "id": "35.06.03.2012", "name": "Desa Pelas" },
+        { "id": "35.06.03.2013", "name": "Desa Rejomulyo" },
+        { "id": "35.06.03.2014", "name": "Desa Bleber" },
+        { "id": "35.06.03.2015", "name": "Desa Mojosari" },
+        { "id": "35.06.03.2016", "name": "Desa Jabang" }
+      ]
+    },
+    {
+      "id": "35.06.04",
+      "name": "Ngadiluwih",
+      "villages": [
+        { "id": "35.06.04.2001", "name": "Desa Badal" },
+        { "id": "35.06.04.2002", "name": "Desa Badal Pandean" },
+        { "id": "35.06.04.2003", "name": "Desa Tales" },
+        { "id": "35.06.04.2004", "name": "Desa Purwokerto" },
+        { "id": "35.06.04.2005", "name": "Desa Rembang" },
+        { "id": "35.06.04.2006", "name": "Desa Rembang Kidul" },
+        { "id": "35.06.04.2007", "name": "Desa Ngadiluwih" },
+        { "id": "35.06.04.2008", "name": "Desa Dukuh" },
+        { "id": "35.06.04.2009", "name": "Desa Banggle" },
+        { "id": "35.06.04.2010", "name": "Desa Branggahan" },
+        { "id": "35.06.04.2011", "name": "Desa Wonorejo" },
+        { "id": "35.06.04.2012", "name": "Desa Seketi" },
+        { "id": "35.06.04.2013", "name": "Desa Mangunrejo" },
+        { "id": "35.06.04.2014", "name": "Desa Selosari" },
+        { "id": "35.06.04.2015", "name": "Desa Slumbung" },
+        { "id": "35.06.04.2016", "name": "Desa Banjarejo" }
+      ]
+    },
+    {
+      "id": "35.06.05",
+      "name": "Kandat",
+      "villages": [
+        { "id": "35.06.05.2001", "name": "Desa Sumberejo" },
+        { "id": "35.06.05.2002", "name": "Desa Selosari" },
+        { "id": "35.06.05.2003", "name": "Desa Karangrejo" },
+        { "id": "35.06.05.2004", "name": "Desa Kandat" },
+        { "id": "35.06.05.2005", "name": "Desa Cendono" },
+        { "id": "35.06.05.2006", "name": "Desa Ringinsari" },
+        { "id": "35.06.05.2007", "name": "Desa Tegalan" },
+        { "id": "35.06.05.2008", "name": "Desa Ngletih" },
+        { "id": "35.06.05.2009", "name": "Desa Purworejo" },
+        { "id": "35.06.05.2010", "name": "Desa Pule" },
+        { "id": "35.06.05.2011", "name": "Desa Blabak" },
+        { "id": "35.06.05.2012", "name": "Desa Ngreco" }
+      ]
+    },
+    {
+      "id": "35.06.06",
+      "name": "Wates",
+      "villages": [
+        { "id": "35.06.06.2001", "name": "Desa Duwet" },
+        { "id": "35.06.06.2002", "name": "Desa Pojok" },
+        { "id": "35.06.06.2003", "name": "Desa Segaran" },
+        { "id": "35.06.06.2004", "name": "Desa Gadungan" },
+        { "id": "35.06.06.2005", "name": "Desa Wates" },
+        { "id": "35.06.06.2006", "name": "Desa Tawang" },
+        { "id": "35.06.06.2007", "name": "Desa Jajar" },
+        { "id": "35.06.06.2008", "name": "Desa Tunge" },
+        { "id": "35.06.06.2009", "name": "Desa Tempurejo" },
+        { "id": "35.06.06.2010", "name": "Desa Plaosan" },
+        { "id": "35.06.06.2011", "name": "Desa Karanganyar" },
+        { "id": "35.06.06.2012", "name": "Desa Wonorejo" },
+        { "id": "35.06.06.2013", "name": "Desa Pagu" },
+        { "id": "35.06.06.2014", "name": "Desa Joho" },
+        { "id": "35.06.06.2015", "name": "Desa Silir" },
+        { "id": "35.06.06.2016", "name": "Desa Sumberagung" },
+        { "id": "35.06.06.2017", "name": "Desa Sidomulyo" },
+        { "id": "35.06.06.2018", "name": "Desa Janti" }
+      ]
+    },
+    {
+      "id": "35.06.07",
+      "name": "Ngancar",
+      "villages": [
+        { "id": "35.06.07.2001", "name": "Desa Sempu" },
+        { "id": "35.06.07.2002", "name": "Desa Pandantoyo" },
+        { "id": "35.06.07.2003", "name": "Desa Margourip" },
+        { "id": "35.06.07.2004", "name": "Desa Bedali" },
+        { "id": "35.06.07.2005", "name": "Desa Kunjang" },
+        { "id": "35.06.07.2006", "name": "Desa Manggis" },
+        { "id": "35.06.07.2007", "name": "Desa Ngancar" },
+        { "id": "35.06.07.2008", "name": "Desa Sugihwaras" },
+        { "id": "35.06.07.2009", "name": "Desa Babadan" },
+        { "id": "35.06.07.2010", "name": "Desa Jagul" }
+      ]
+    },
+    {
+      "id": "35.06.08",
+      "name": "Puncu",
+      "villages": [
+        { "id": "35.06.08.2001", "name": "Desa Puncu" },
+        { "id": "35.06.08.2002", "name": "Desa Asmorobangun" },
+        { "id": "35.06.08.2003", "name": "Desa Manggis" },
+        { "id": "35.06.08.2004", "name": "Desa Sidomulyo" },
+        { "id": "35.06.08.2005", "name": "Desa Watugede" },
+        { "id": "35.06.08.2006", "name": "Desa Gadungan" },
+        { "id": "35.06.08.2007", "name": "Desa Wonorejo" },
+        { "id": "35.06.08.2008", "name": "Desa Satak" }
+      ]
+    },
+    {
+      "id": "35.06.09",
+      "name": "Plosoklaten",
+      "villages": [
+        { "id": "35.06.09.2001", "name": "Desa Gondang" },
+        { "id": "35.06.09.2002", "name": "Desa Kayunan" },
+        { "id": "35.06.09.2003", "name": "Desa Panjer" },
+        { "id": "35.06.09.2004", "name": "Desa Jarak" },
+        { "id": "35.06.09.2005", "name": "Desa Ploso Kidul" },
+        { "id": "35.06.09.2006", "name": "Desa Ploso Lor" },
+        { "id": "35.06.09.2007", "name": "Desa Brenggolo" },
+        { "id": "35.06.09.2008", "name": "Desa Donganti" },
+        { "id": "35.06.09.2009", "name": "Desa Kawedusan" },
+        { "id": "35.06.09.2010", "name": "Desa Klanderan" },
+        { "id": "35.06.09.2011", "name": "Desa Punjul" },
+        { "id": "35.06.09.2012", "name": "Desa Pranggang" },
+        { "id": "35.06.09.2013", "name": "Desa Sumberagung" },
+        { "id": "35.06.09.2014", "name": "Desa Wonorejo Trisulo" },
+        { "id": "35.06.09.2015", "name": "Desa Sepawon" }
+      ]
+    },
+    {
+      "id": "35.06.10",
+      "name": "Gurah",
+      "villages": [
+        { "id": "35.06.10.2001", "name": "Desa Nglumbang" },
+        { "id": "35.06.10.2002", "name": "Desa Blimbing" },
+        { "id": "35.06.10.2003", "name": "Desa Ngasem" },
+        { "id": "35.06.10.2004", "name": "Desa Bogem" },
+        { "id": "35.06.10.2005", "name": "Desa Kranggan" },
+        { "id": "35.06.10.2006", "name": "Desa Turus" },
+        { "id": "35.06.10.2007", "name": "Desa Gabru" },
+        { "id": "35.06.10.2008", "name": "Desa Wonojoyo" },
+        { "id": "35.06.10.2009", "name": "Desa Bangkok" },
+        { "id": "35.06.10.2010", "name": "Desa Gurah" },
+        { "id": "35.06.10.2011", "name": "Desa Banyuanyar" },
+        { "id": "35.06.10.2012", "name": "Desa Besuk" },
+        { "id": "35.06.10.2013", "name": "Desa Sumbercangkring" },
+        { "id": "35.06.10.2014", "name": "Desa Sukorejo" },
+        { "id": "35.06.10.2015", "name": "Desa Kerkep" },
+        { "id": "35.06.10.2016", "name": "Desa Gempolan" },
+        { "id": "35.06.10.2017", "name": "Desa Tambakrejo" },
+        { "id": "35.06.10.2018", "name": "Desa Tiru Kidul" },
+        { "id": "35.06.10.2019", "name": "Desa Tiru Lor" },
+        { "id": "35.06.10.2020", "name": "Desa Gayam" },
+        { "id": "35.06.10.2021", "name": "Desa Adan-adan" }
+      ]
+    },
+    {
+      "id": "35.06.11",
+      "name": "Pagu",
+      "villages": [
+        { "id": "35.06.11.2001", "name": "Desa Bulupasar" },
+        { "id": "35.06.11.2002", "name": "Desa Wonosari" },
+        { "id": "35.06.11.2003", "name": "Desa Kambingan" },
+        { "id": "35.06.11.2004", "name": "Desa Tanjung" },
+        { "id": "35.06.11.2005", "name": "Desa Wates" },
+        { "id": "35.06.11.2006", "name": "Desa Menang" },
+        { "id": "35.06.11.2007", "name": "Desa Tengger Kidul" },
+        { "id": "35.06.11.2008", "name": "Desa Semanding" },
+        { "id": "35.06.11.2009", "name": "Desa Sitimerto" },
+        { "id": "35.06.11.2010", "name": "Desa Pagu" },
+        { "id": "35.06.11.2011", "name": "Desa Bendo" },
+        { "id": "35.06.11.2012", "name": "Desa Semen" },
+        { "id": "35.06.11.2016", "name": "Desa Jagung" }
+      ]
+    },
+    {
+      "id": "35.06.12",
+      "name": "Gampengrejo",
+      "villages": [
+        { "id": "35.06.12.2010", "name": "Desa Jongbiru" },
+        { "id": "35.06.12.2011", "name": "Desa Putih" },
+        { "id": "35.06.12.2012", "name": "Desa Sambirejo" },
+        { "id": "35.06.12.2016", "name": "Desa Kepuhrejo" },
+        { "id": "35.06.12.2017", "name": "Desa Kalibelo" },
+        { "id": "35.06.12.2018", "name": "Desa Plosorejo" },
+        { "id": "35.06.12.2019", "name": "Desa Turus" },
+        { "id": "35.06.12.2020", "name": "Desa Sambiresik" },
+        { "id": "35.06.12.2021", "name": "Desa Gampeng" },
+        { "id": "35.06.12.2022", "name": "Desa Ngebrak" },
+        { "id": "35.06.12.2023", "name": "Desa Wanengpaten" }
+      ]
+    },
+    {
+      "id": "35.06.13",
+      "name": "Grogol",
+      "villages": [
+        { "id": "35.06.13.2001", "name": "Desa Kalipang" },
+        { "id": "35.06.13.2002", "name": "Desa Grogol" },
+        { "id": "35.06.13.2003", "name": "Desa Cerme" },
+        { "id": "35.06.13.2004", "name": "Desa Wonoasri" },
+        { "id": "35.06.13.2005", "name": "Desa Sonorejo" },
+        { "id": "35.06.13.2006", "name": "Desa Datengan" },
+        { "id": "35.06.13.2007", "name": "Desa Sumberejo" },
+        { "id": "35.06.13.2008", "name": "Desa Gambyok" },
+        { "id": "35.06.13.2009", "name": "Desa Bakalan" }
+      ]
+    },
+    {
+      "id": "35.06.14",
+      "name": "Papar",
+      "villages": [
+        { "id": "35.06.14.2001", "name": "Desa Purwotengah" },
+        { "id": "35.06.14.2002", "name": "Desa Kwaron" },
+        { "id": "35.06.14.2003", "name": "Desa Minggiran" },
+        { "id": "35.06.14.2004", "name": "Desa Pehkulon" },
+        { "id": "35.06.14.2005", "name": "Desa Pehwetan" },
+        { "id": "35.06.14.2006", "name": "Desa Dawuhan Kidul" },
+        { "id": "35.06.14.2007", "name": "Desa Janti" },
+        { "id": "35.06.14.2008", "name": "Desa Ngampel" },
+        { "id": "35.06.14.2009", "name": "Desa Kedungmalang" },
+        { "id": "35.06.14.2010", "name": "Desa Jambangan" },
+        { "id": "35.06.14.2011", "name": "Desa Maduretno" },
+        { "id": "35.06.14.2012", "name": "Desa Papar" },
+        { "id": "35.06.14.2013", "name": "Desa Tanon" },
+        { "id": "35.06.14.2014", "name": "Desa Srikaton" },
+        { "id": "35.06.14.2015", "name": "Desa Kepuh" },
+        { "id": "35.06.14.2016", "name": "Desa Sukomoro" },
+        { "id": "35.06.14.2017", "name": "Desa Puhjajar" }
+      ]
+    },
+    {
+      "id": "35.06.15",
+      "name": "Purwoasri",
+      "villages": [
+        { "id": "35.06.15.2001", "name": "Desa Jantok" },
+        { "id": "35.06.15.2002", "name": "Desa Pesing" },
+        { "id": "35.06.15.2003", "name": "Desa Mranggen" },
+        { "id": "35.06.15.2004", "name": "Desa Purwoasri" },
+        { "id": "35.06.15.2005", "name": "Desa Wonotengah" },
+        { "id": "35.06.15.2006", "name": "Desa Ketawang" },
+        { "id": "35.06.15.2007", "name": "Desa Belor" },
+        { "id": "35.06.15.2008", "name": "Desa Blawe" },
+        { "id": "35.06.15.2009", "name": "Desa Pandansari" },
+        { "id": "35.06.15.2010", "name": "Desa Purwodadi" },
+        { "id": "35.06.15.2011", "name": "Desa Bulu" },
+        { "id": "35.06.15.2012", "name": "Desa Tugu" },
+        { "id": "35.06.15.2013", "name": "Desa Sidomulyo" },
+        { "id": "35.06.15.2014", "name": "Desa Klampitan" },
+        { "id": "35.06.15.2015", "name": "Desa Woromarto" },
+        { "id": "35.06.15.2016", "name": "Desa Muneng" },
+        { "id": "35.06.15.2017", "name": "Desa Merjoyo" },
+        { "id": "35.06.15.2018", "name": "Desa Mekikis" },
+        { "id": "35.06.15.2019", "name": "Desa Karangpakis" },
+        { "id": "35.06.15.2020", "name": "Desa Dayu" },
+        { "id": "35.06.15.2021", "name": "Desa Dawuhan" },
+        { "id": "35.06.15.2022", "name": "Desa Kempleng" },
+        { "id": "35.06.15.2023", "name": "Desa Sumberjo" }
+      ]
+    },
+    {
+      "id": "35.06.16",
+      "name": "Plemahan",
+      "villages": [
+        { "id": "35.06.16.2001", "name": "Desa Langenharjo" },
+        { "id": "35.06.16.2002", "name": "Desa Tegowangi" },
+        { "id": "35.06.16.2003", "name": "Desa Puhjarak" },
+        { "id": "35.06.16.2004", "name": "Desa Mejono" },
+        { "id": "35.06.16.2005", "name": "Desa Payaman" },
+        { "id": "35.06.16.2006", "name": "Desa Bogokidul" },
+        { "id": "35.06.16.2007", "name": "Desa Kayen Lor" },
+        { "id": "35.06.16.2008", "name": "Desa Wonokerto" },
+        { "id": "35.06.16.2009", "name": "Desa Ngino" },
+        { "id": "35.06.16.2010", "name": "Desa Sebet" },
+        { "id": "35.06.16.2011", "name": "Desa Banjarejo" },
+        { "id": "35.06.16.2012", "name": "Desa Sidowarek" },
+        { "id": "35.06.16.2013", "name": "Desa Ringinpitu" },
+        { "id": "35.06.16.2014", "name": "Desa Sukoharjo" },
+        { "id": "35.06.16.2015", "name": "Desa Mojoayu" },
+        { "id": "35.06.16.2016", "name": "Desa Plemahan" },
+        { "id": "35.06.16.2017", "name": "Desa Mojokerep" }
+      ]
+    },
+    {
+      "id": "35.06.17",
+      "name": "Pare",
+      "villages": [
+        { "id": "35.06.17.2001", "name": "Desa Sidorejo" },
+        { "id": "35.06.17.2002", "name": "Desa Sambirejo" },
+        { "id": "35.06.17.2003", "name": "Desa Gedangsewu" },
+        { "id": "35.06.17.2004", "name": "Desa Sumberbendo" },
+        { "id": "35.06.17.2005", "name": "Desa Darungan" },
+        { "id": "35.06.17.2006", "name": "Desa Bendo" },
+        { "id": "35.06.17.2007", "name": "Desa Pelem" },
+        { "id": "35.06.17.2008", "name": "Desa Tulungrejo" },
+        { "id": "35.06.17.1009", "name": "Kelurahan Pare" },
+        { "id": "35.06.17.2010", "name": "Desa Tertek" }
+      ]
+    },
+    {
+      "id": "35.06.18",
+      "name": "Kepung",
+      "villages": [
+        { "id": "35.06.18.2001", "name": "Desa Kebonrejo" },
+        { "id": "35.06.18.2002", "name": "Desa Kampungbaru" },
+        { "id": "35.06.18.2003", "name": "Desa Besowo" },
+        { "id": "35.06.18.2004", "name": "Desa Siman" },
+        { "id": "35.06.18.2005", "name": "Desa Brumbung" },
+        { "id": "35.06.18.2006", "name": "Desa Kepung" },
+        { "id": "35.06.18.2007", "name": "Desa Krenceng" },
+        { "id": "35.06.18.2008", "name": "Desa Kencong" },
+        { "id": "35.06.18.2009", "name": "Desa Keling" },
+        { "id": "35.06.18.2010", "name": "Desa Damarwulan" }
+      ]
+    },
+    {
+      "id": "35.06.19",
+      "name": "Kandangan",
+      "villages": [
+        { "id": "35.06.19.2001", "name": "Desa Kemiri" },
+        { "id": "35.06.19.2002", "name": "Desa Klampisan" },
+        { "id": "35.06.19.2003", "name": "Desa Karangtengah" },
+        { "id": "35.06.19.2004", "name": "Desa Kasreman" },
+        { "id": "35.06.19.2005", "name": "Desa Jerukwangi" },
+        { "id": "35.06.19.2006", "name": "Desa Jerukgulung" },
+        { "id": "35.06.19.2007", "name": "Desa Jlumbang" },
+        { "id": "35.06.19.2008", "name": "Desa Bukur" },
+        { "id": "35.06.19.2009", "name": "Desa Kandangan" },
+        { "id": "35.06.19.2010", "name": "Desa Banaran" },
+        { "id": "35.06.19.2011", "name": "Desa Mlancu" },
+        { "id": "35.06.19.2012", "name": "Desa Medowo" }
+      ]
+    },
+    {
+      "id": "35.06.20",
+      "name": "Tarokan",
+      "villages": [
+        { "id": "35.06.20.2001", "name": "Desa Kalirong" },
+        { "id": "35.06.20.2002", "name": "Desa Kaliboto" },
+        { "id": "35.06.20.2003", "name": "Desa Bulusari" },
+        { "id": "35.06.20.2004", "name": "Desa Tarokan" },
+        { "id": "35.06.20.2005", "name": "Desa Kedungsari" },
+        { "id": "35.06.20.2006", "name": "Desa Sumberduren" },
+        { "id": "35.06.20.2007", "name": "Desa Kerep" },
+        { "id": "35.06.20.2008", "name": "Desa Blimbing" },
+        { "id": "35.06.20.2009", "name": "Desa Jati" },
+        { "id": "35.06.20.2010", "name": "Desa Cengkok" }
+      ]
+    },
+    {
+      "id": "35.06.21",
+      "name": "Kunjang",
+      "villages": [
+        { "id": "35.06.21.2001", "name": "Desa Kuwik" },
+        { "id": "35.06.21.2002", "name": "Desa Balongjeruk" },
+        { "id": "35.06.21.2003", "name": "Desa Kapas" },
+        { "id": "35.06.21.2004", "name": "Desa Klepek" },
+        { "id": "35.06.21.2005", "name": "Desa Kunjang" },
+        { "id": "35.06.21.2006", "name": "Desa Kapi" },
+        { "id": "35.06.21.2007", "name": "Desa Tengger Lor" },
+        { "id": "35.06.21.2008", "name": "Desa Wonorejo" },
+        { "id": "35.06.21.2009", "name": "Desa Dungus" },
+        { "id": "35.06.21.2010", "name": "Desa Juwet" },
+        { "id": "35.06.21.2011", "name": "Desa Pakis" },
+        { "id": "35.06.21.2012", "name": "Desa Parelor" }
+      ]
+    },
+    {
+      "id": "35.06.22",
+      "name": "Banyakan",
+      "villages": [
+        { "id": "35.06.22.2001", "name": "Desa Banyakan" },
+        { "id": "35.06.22.2002", "name": "Desa Jatirejo" },
+        { "id": "35.06.22.2003", "name": "Desa Manyaran" },
+        { "id": "35.06.22.2004", "name": "Desa Tiron" },
+        { "id": "35.06.22.2005", "name": "Desa Parang" },
+        { "id": "35.06.22.2006", "name": "Desa Sendang" },
+        { "id": "35.06.22.2007", "name": "Desa Maron" },
+        { "id": "35.06.22.2008", "name": "Desa Ngablak" },
+        { "id": "35.06.22.2009", "name": "Desa Jabon" }
+      ]
+    },
+    {
+      "id": "35.06.23",
+      "name": "Ringinrejo",
+      "villages": [
+        { "id": "35.06.23.2001", "name": "Desa Ringinrejo" },
+        { "id": "35.06.23.2002", "name": "Desa Batuaji" },
+        { "id": "35.06.23.2003", "name": "Desa Deyeng" },
+        { "id": "35.06.23.2004", "name": "Desa Dawung" },
+        { "id": "35.06.23.2005", "name": "Desa Purwodadi" },
+        { "id": "35.06.23.2006", "name": "Desa Sambi" },
+        { "id": "35.06.23.2007", "name": "Desa Susuhbango" },
+        { "id": "35.06.23.2008", "name": "Desa Selodono" },
+        { "id": "35.06.23.2009", "name": "Desa Nambakan" },
+        { "id": "35.06.23.2010", "name": "Desa Srikaton" },
+        { "id": "35.06.23.2011", "name": "Desa Jamekan" }
+      ]
+    },
+    {
+      "id": "35.06.24",
+      "name": "Kayen Kidul",
+      "villages": [
+        { "id": "35.06.24.2001", "name": "Desa Baye" },
+        { "id": "35.06.24.2002", "name": "Desa Bangsongan" },
+        { "id": "35.06.24.2003", "name": "Desa Senden" },
+        { "id": "35.06.24.2004", "name": "Desa Sambirobyong" },
+        { "id": "35.06.24.2005", "name": "Desa Mukuh" },
+        { "id": "35.06.24.2006", "name": "Desa Sukoharjo" },
+        { "id": "35.06.24.2007", "name": "Desa Jambu" },
+        { "id": "35.06.24.2008", "name": "Desa Sekaran" },
+        { "id": "35.06.24.2009", "name": "Desa Padangan" },
+        { "id": "35.06.24.2010", "name": "Desa Nanggungan" },
+        { "id": "35.06.24.2011", "name": "Desa Semambung" },
+        { "id": "35.06.24.2012", "name": "Desa Kayen Kidul" }
+      ]
+    },
+    {
+      "id": "35.06.25",
+      "name": "Ngasem",
+      "villages": [
+        { "id": "35.06.25.2001", "name": "Desa Tugurejo" },
+        { "id": "35.06.25.2002", "name": "Desa Sumberejo" },
+        { "id": "35.06.25.2003", "name": "Desa Paron" },
+        { "id": "35.06.25.2004", "name": "Desa Gogorante" },
+        { "id": "35.06.25.2005", "name": "Desa Doko" },
+        { "id": "35.06.25.2006", "name": "Desa Sukorejo" },
+        { "id": "35.06.25.2007", "name": "Desa Ngasem" },
+        { "id": "35.06.25.2008", "name": "Desa Karangrejo" },
+        { "id": "35.06.25.2009", "name": "Desa Kwadungan" },
+        { "id": "35.06.25.2010", "name": "Desa Nambaan" },
+        { "id": "35.06.25.2011", "name": "Desa Toyoresmi" },
+        { "id": "35.06.25.2012", "name": "Desa Wonocatur" }
+      ]
+    },
+    {
+      "id": "35.06.26",
+      "name": "Badas",
+      "villages": [
+        { "id": "35.06.26.2001", "name": "Desa Canggu" },
+        { "id": "35.06.26.2002", "name": "Desa Lamong" },
+        { "id": "35.06.26.2003", "name": "Desa Bringin" },
+        { "id": "35.06.26.2004", "name": "Desa Sekoto" },
+        { "id": "35.06.26.2005", "name": "Desa Tunglur" },
+        { "id": "35.06.26.2006", "name": "Desa Krecek" },
+        { "id": "35.06.26.2007", "name": "Desa Blaru" },
+        { "id": "35.06.26.2008", "name": "Desa Badas" }
+      ]
+    }
+  ]
+}

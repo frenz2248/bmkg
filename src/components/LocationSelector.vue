@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import regionsDataRaw from '@/data/wilayah.json';
+import regionsDataRaw from '@/data/wilayah';
 import { getWeatherByLocation, type WeatherResponse, type CuacaItem } from '@/services/weatherService';
 
 // --- Interfaces ---
