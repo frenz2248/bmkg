@@ -1,0 +1,71 @@
+{
+  "id": "35.71",
+  "name": "KOTA KEDIRI",
+  "type": "Kota",
+  "districts": [
+    {
+      "id": "35.71.01",
+      "name": "Mojoroto",
+      "villages": [
+        { "id": "35.71.01.1001", "name": "Kelurahan Bandar Lor" },
+        { "id": "35.71.01.1002", "name": "Kelurahan Bandar Kidul" },
+        { "id": "35.71.01.1003", "name": "Kelurahan Banjar Mlati" },
+        { "id": "35.71.01.1004", "name": "Kelurahan Pojok" },
+        { "id": "35.71.01.1005", "name": "Kelurahan Sukorame" },
+        { "id": "35.71.01.1006", "name": "Kelurahan Bujel" },
+        { "id": "35.71.01.1007", "name": "Kelurahan Gayam" },
+        { "id": "35.71.01.1008", "name": "Kelurahan Mrican" },
+        { "id": "35.71.01.1009", "name": "Kelurahan Dermo" },
+        { "id": "35.71.01.1010", "name": "Kelurahan Ngampel" },
+        { "id": "35.71.01.1011", "name": "Kelurahan Mojoroto" },
+        { "id": "35.71.01.1012", "name": "Kelurahan Campurejo" },
+        { "id": "35.71.01.1013", "name": "Kelurahan Lirboyo" },
+        { "id": "35.71.01.1014", "name": "Kelurahan Tamanan" }
+      ]
+    },
+    {
+      "id": "35.71.02",
+      "name": "Kota",
+      "villages": [
+        { "id": "35.71.02.1001", "name": "Kelurahan Semampir" },
+        { "id": "35.71.02.1002", "name": "Kelurahan Balowerti" },
+        { "id": "35.71.02.1003", "name": "Kelurahan Dandangan" },
+        { "id": "35.71.02.1004", "name": "Kelurahan Ngadirejo" },
+        { "id": "35.71.02.1005", "name": "Kelurahan Kampung Dalem" },
+        { "id": "35.71.02.1006", "name": "Kelurahan Setonopande" },
+        { "id": "35.71.02.1007", "name": "Kelurahan Ringinanom" },
+        { "id": "35.71.02.1008", "name": "Kelurahan Pakelan" },
+        { "id": "35.71.02.1009", "name": "Kelurahan Setonogedong" },
+        { "id": "35.71.02.1010", "name": "Kelurahan Kemasan" },
+        { "id": "35.71.02.1011", "name": "Kelurahan Jagalan" },
+        { "id": "35.71.02.1012", "name": "Kelurahan Banjaran" },
+        { "id": "35.71.02.1013", "name": "Kelurahan Kaliombo" },
+        { "id": "35.71.02.1014", "name": "Kelurahan Ngronggo" },
+        { "id": "35.71.02.1015", "name": "Kelurahan Manisrenggo" },
+        { "id": "35.71.02.1016", "name": "Kelurahan Pocanan" },
+        { "id": "35.71.02.1017", "name": "Kelurahan Rejomulyo" }
+      ]
+    },
+    {
+      "id": "35.71.03",
+      "name": "Pesantren",
+      "villages": [
+        { "id": "35.71.03.1001", "name": "Kelurahan Bangsal" },
+        { "id": "35.71.03.1002", "name": "Kelurahan Pakunden" },
+        { "id": "35.71.03.1003", "name": "Kelurahan Tosaren" },
+        { "id": "35.71.03.1004", "name": "Kelurahan Jamsaren" },
+        { "id": "35.71.03.1005", "name": "Kelurahan Singonegaran" },
+        { "id": "35.71.03.1006", "name": "Kelurahan Blabak" },
+        { "id": "35.71.03.1007", "name": "Kelurahan Betet" },
+        { "id": "35.71.03.1008", "name": "Kelurahan Tinalan" },
+        { "id": "35.71.03.1009", "name": "Kelurahan Bawang" },
+        { "id": "35.71.03.1010", "name": "Kelurahan Ngletih" },
+        { "id": "35.71.03.1011", "name": "Kelurahan Tampurejo" },
+        { "id": "35.71.03.1012", "name": "Kelurahan Ketami" },
+        { "id": "35.71.03.1013", "name": "Kelurahan Pesantren" },
+        { "id": "35.71.03.1014", "name": "Kelurahan Banaran" },
+        { "id": "35.71.03.1015", "name": "Kelurahan Burengan" }
+      ]
+    }
+  ]
+}

@@ -2,13 +2,12 @@
 import { ref, onMounted, nextTick } from 'vue';
 import { getGempaTerbaru, type DataGempa } from '@/services/gempaService';
 import L from 'leaflet';
-import 'leaflet/dist/leaflet.css'; // Wajib import CSS peta
+import 'leaflet/dist/leaflet.css';
 
 const gempa = ref<DataGempa | null>(null);
 const isLoading = ref(true);
 
 // Fungsi Helper: Ubah string koordinat BMKG ke angka (Latitude/Longitude)
-// Contoh: "5.21 LS" -> -5.21, "110 BT" -> 110
 const parseCoord = (str: string, type: 'lat' | 'lon'): number => {
   if (!str) return 0;
   const val = parseFloat(str.replace(',', '.')); // Ganti koma jadi titik kalau ada
@@ -153,17 +152,13 @@ h2 {
   animation: pulse 2s infinite;
 }
 
-/* MAP STYLE - PENTING! */
 .map-container {
   width: 100%;
   height: 300px;
-  /* Tinggi peta harus ditentukan! */
   background: #e2e8f0;
   z-index: 1;
-  /* Pastikan di bawah navbar/dropdown */
 }
 
-/* Info Panel di Bawah Peta */
 .info-panel {
   padding: 20px;
 }
